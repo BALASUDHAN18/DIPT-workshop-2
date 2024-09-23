@@ -1,4 +1,4 @@
-# DIPT-workshop-2
+# DIPT  (real-time object detection) - workshop-2
 ## Name : P Balasudhan
 ## reg no : 212222240017
 
